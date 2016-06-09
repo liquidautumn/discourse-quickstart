@@ -16,7 +16,7 @@ add quickstart upstream and get the code
 
 ```Bash
 $ cd discourse
-$ git remote add upstream -m master git@github.com:liquidautumn/discourse-quickstart.git
+$ git remote add upstream -m master https://github.com/qLb/discourse-quickstart.git
 $ git pull -s recursive -X theirs upstream master
 ```
 
